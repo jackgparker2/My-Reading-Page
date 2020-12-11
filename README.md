@@ -8,3 +8,5 @@ A list of my favorite books
 3. Lord of the Flies
 4. Moby Dick
 5. Green Eggs and Ham
+
+[Home](https://github.com/jackgparker2/Who-is-Jack.git)
